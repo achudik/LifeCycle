@@ -8,6 +8,12 @@ For education purposes I give to you example demo how to implement :
 ### Version
 1.0
 
+### Documentation
+http://developer.android.com/guide/components/activities.html
+http://developer.android.com/training/basics/data-storage/shared-preferences.html
+http://developer.android.com/guide/topics/manifest/manifest-intro.html
+http://developer.android.com/guide/topics/resources/index.html
+
 License
 ----
 
