@@ -1,9 +1,8 @@
 # LifeCycle
-## + display life cycles of app
-## + save life cycles of app to shared preferences
 
 For education purposes I give to you example demo how to implement :
 
+  - **demonstrate life cycles of activity**
   - **use of shared preferences**
  
 ### Version
